@@ -11,6 +11,8 @@
   #warning "FPU is not initialized, but the project is compiling for an FPU. Please initialize the FPU before use."
 #endif
 
+#define test 1
+
 #include<stdio.h>
 #include"main.h"
 #include "led.h"
