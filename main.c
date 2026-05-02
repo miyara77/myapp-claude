@@ -12,6 +12,7 @@
 #endif
 
 #define test 1
+#define CLAUDE_ON 1
 
 #include<stdio.h>
 #include"main.h"
